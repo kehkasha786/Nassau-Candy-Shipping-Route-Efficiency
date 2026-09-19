@@ -5,6 +5,7 @@
 -- Analyze shipping routes (Factory → Customer State/Region) to identify fastest and slowest performing
 -- routes, geographic bottlenecks, ship mode performance, and factory-level volume/efficiency trends,
 -- in order to support data-driven improvements to distribution efficiency.
+-- Phase: 3 (SQL Exploratory Data Analysis)
 -- Author: Kehkasha Ansari
 -- Tools: MySQL, Python, Streamlit
 -- Note: Shipping Lead Time reflects a known data generation anomaly in Order Date/Ship Date (see Data Validation section).
