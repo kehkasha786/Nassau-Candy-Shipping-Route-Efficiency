@@ -1,0 +1,90 @@
+Route_State,Route_Volume,Avg_Lead_Time,Efficiency_Score
+Wicked Choccy's -> Nevada,10,1182.25,100.0
+Secret Factory -> Texas,16,1227.0625,85.39
+Lot's O' Nuts -> Virginia,91,1229.48623853211,84.6
+Wicked Choccy's -> South Carolina,14,1234.2105263157894,83.05
+Lot's O' Nuts -> Utah,21,1236.0,82.47
+Wicked Choccy's -> Virginia,85,1238.877358490566,81.53
+Wicked Choccy's -> Mississippi,17,1240.4545454545455,81.02
+Lot's O' Nuts -> Nevada,23,1243.25,80.11
+Lot's O' Nuts -> Oregon,62,1245.1948051948052,79.47
+Lot's O' Nuts -> Kansas,15,1248.8666666666666,78.27
+Wicked Choccy's -> Louisiana,14,1272.2666666666667,70.64
+Lot's O' Nuts -> New Hampshire,13,1272.4615384615386,70.58
+Wicked Choccy's -> Alabama,18,1272.7272727272727,70.49
+Wicked Choccy's -> Connecticut,30,1272.8709677419354,70.45
+Lot's O' Nuts -> Delaware,39,1273.3023255813953,70.31
+Wicked Choccy's -> Utah,22,1273.4782608695652,70.25
+Wicked Choccy's -> Arkansas,21,1273.5185185185185,70.24
+Wicked Choccy's -> Delaware,37,1273.7142857142858,70.17
+Lot's O' Nuts -> Oklahoma,34,1282.6829268292684,67.25
+Lot's O' Nuts -> Arkansas,25,1285.3548387096773,66.38
+Lot's O' Nuts -> South Carolina,18,1290.2857142857142,64.77
+Wicked Choccy's -> Michigan,83,1291.85,64.26
+Lot's O' Nuts -> Massachusetts,58,1292.1184210526317,64.17
+Lot's O' Nuts -> Alabama,30,1295.2058823529412,63.16
+Lot's O' Nuts -> Rhode Island,23,1296.9,62.61
+Lot's O' Nuts -> Mississippi,25,1297.6666666666667,62.36
+Wicked Choccy's -> Nebraska,12,1299.2857142857142,61.83
+Secret Factory -> Ohio,12,1301.2307692307693,61.2
+Lot's O' Nuts -> Louisiana,21,1302.9583333333333,60.63
+Lot's O' Nuts -> Michigan,118,1303.0068027210884,60.62
+Wicked Choccy's -> Florida,131,1305.0931677018634,59.94
+Lot's O' Nuts -> Arizona,94,1306.1981981981983,59.58
+Secret Factory -> California,31,1308.2903225806451,58.9
+Lot's O' Nuts -> Texas,479,1310.4604569420035,58.19
+Wicked Choccy's -> Missouri,25,1311.103448275862,57.98
+Secret Factory -> Pennsylvania,19,1311.3684210526317,57.89
+Wicked Choccy's -> New York,353,1311.883027522936,57.72
+Wicked Choccy's -> Wisconsin,42,1312.2340425531916,57.61
+Wicked Choccy's -> Ohio,157,1313.3544973544974,57.24
+Lot's O' Nuts -> North Carolina,120,1314.1958041958042,56.97
+Lot's O' Nuts -> Pennsylvania,270,1315.0634441087614,56.69
+Wicked Choccy's -> Texas,326,1315.6082474226805,56.51
+Wicked Choccy's -> Oregon,39,1316.1627906976744,56.33
+Lot's O' Nuts -> California,944,1316.9102222222223,56.08
+Lot's O' Nuts -> Florida,176,1318.6076555023924,55.53
+Wicked Choccy's -> Colorado,49,1319.8428571428572,55.13
+Lot's O' Nuts -> Illinois,235,1319.9325842696628,55.1
+Wicked Choccy's -> California,689,1320.3268529769136,54.97
+Wicked Choccy's -> Arizona,88,1322.1142857142856,54.39
+Wicked Choccy's -> Kentucky,45,1323.8103448275863,53.83
+The Other Factory -> California,21,1325.0,53.45
+Lot's O' Nuts -> Kentucky,63,1325.4025974025974,53.31
+Wicked Choccy's -> Maryland,32,1326.7073170731708,52.89
+Secret Factory -> Illinois,13,1328.6923076923076,52.24
+Wicked Choccy's -> Illinois,183,1329.1285714285714,52.1
+Lot's O' Nuts -> Georgia,88,1329.5636363636363,51.96
+Lot's O' Nuts -> New York,544,1330.5162790697675,51.65
+Wicked Choccy's -> Minnesota,36,1330.6888888888889,51.59
+Wicked Choccy's -> Oklahoma,22,1332.0,51.16
+Lot's O' Nuts -> Ohio,218,1334.1145038167938,50.47
+Wicked Choccy's -> Massachusetts,43,1334.4444444444443,50.37
+Wicked Choccy's -> New Jersey,49,1335.3898305084747,50.06
+Lot's O' Nuts -> New Jersey,53,1335.6615384615384,49.97
+Lot's O' Nuts -> Nebraska,20,1336.1304347826087,49.82
+Wicked Choccy's -> Pennsylvania,188,1339.2202643171806,48.81
+Wicked Choccy's -> New Hampshire,10,1340.090909090909,48.52
+Lot's O' Nuts -> Washington,230,1343.9628252788104,47.26
+Wicked Choccy's -> Georgia,55,1346.1538461538462,46.55
+Lot's O' Nuts -> Colorado,82,1347.5339805825242,46.1
+Lot's O' Nuts -> Minnesota,38,1350.3953488372092,45.16
+Lot's O' Nuts -> Idaho,12,1351.357142857143,44.85
+The Other Factory -> New York,13,1351.9285714285713,44.66
+Wicked Choccy's -> North Carolina,91,1352.7623762376238,44.39
+Wicked Choccy's -> Rhode Island,18,1359.6666666666667,42.14
+Lot's O' Nuts -> Missouri,30,1364.8333333333333,40.46
+Lot's O' Nuts -> Indiana,74,1366.7888888888888,39.82
+Lot's O' Nuts -> Wisconsin,44,1367.6379310344828,39.54
+Lot's O' Nuts -> Maryland,44,1370.6666666666667,38.55
+Wicked Choccy's -> Washington,187,1375.7239819004526,36.9
+Secret Factory -> New York,23,1379.625,35.63
+Lot's O' Nuts -> Tennessee,88,1390.9633027522937,31.93
+Wicked Choccy's -> Tennessee,56,1393.7611940298507,31.02
+Wicked Choccy's -> Indiana,44,1402.462962962963,28.18
+Wicked Choccy's -> Iowa,12,1403.7857142857142,27.75
+Lot's O' Nuts -> Connecticut,40,1420.5531914893618,22.28
+Lot's O' Nuts -> New Mexico,18,1456.9444444444443,10.42
+Secret Factory -> Washington,11,1472.3636363636363,5.39
+Lot's O' Nuts -> Iowa,14,1479.0,3.22
+Wicked Choccy's -> New Mexico,14,1488.8823529411766,0.0

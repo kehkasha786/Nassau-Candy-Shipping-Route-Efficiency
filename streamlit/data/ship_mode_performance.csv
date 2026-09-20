@@ -1,0 +1,5 @@
+Ship Mode,Total_Orders,Total_Cost,Avg_Cost_Per_Shipment,Avg_Lead_Time,Lead_Time_Variability,Total_Gross_Profit
+Standard Class,5026,28240.27,4.73,1315.06,261.49,54895.06
+Second Class,1621,9410.92,4.84,1324.37,261.99,18014.38
+Same Day,440,2397.94,4.42,1333.91,252.75,4663.38
+First Class,1302,7272.98,4.73,1338.23,265.58,13935.41
