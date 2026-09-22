@@ -9,10 +9,9 @@ render_sidebar()
 
 df = pd.read_csv("data/nassau_candy_cleaned.csv")
 
-st.title("Geographic Shipping Map")
+st.title("State-Level Shipping Performance Map")
 st.markdown(
-    "State-level shipping performance across the US. Efficiency Score is normalized (0-100); "
-    "higher is better."
+    "State-level shipping performance across the US. State Efficiency Score is normalized within the states shown on this page; higher scores indicate relatively better state-level performance."
 )
 delay_threshold = 1634
 
@@ -98,7 +97,7 @@ st.divider()
 st.subheader("Congestion-Prone States")
 st.markdown(
     "States with above-average order volume **and** above-average Delay Frequency — "
-    "these represent the most operationally significant bottlenecks."
+    "these are higher-volume states with relatively elevated delay frequency and are useful candidates for operational investigation."
 )
 
 avg_volume = state_summary["Order_Volume"].mean()

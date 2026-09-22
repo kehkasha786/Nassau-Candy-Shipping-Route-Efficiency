@@ -32,10 +32,10 @@ fig_leadtime.update_layout(bargap=0.6)
 st.plotly_chart(fig_leadtime, width="stretch")
 
 st.info(
-    "**Note:** Both First Class and Same Day shipments show a higher average Lead Time "
-    "than Standard Class — the opposite of what these Ship Mode names would suggest in "
-    "real-world logistics. This further supports the conclusion that the Order Date-Ship Date "
-    "relationship does not reflect genuine shipping chronology (see Data Validation)."
+     "**Data-quality note:** First Class and Same Day show higher average Lead Time "
+    "than Standard Class in this dataset. Because the Order Date–Ship Date relationship "
+    "contains a known date-generation anomaly, these Lead Time values should be interpreted "
+    "as relative analytical measures rather than literal shipping durations."
 )
 
 st.divider()
@@ -50,6 +50,7 @@ fig_cost.update_layout(bargap=0.6)
 st.plotly_chart(fig_cost, width="stretch")
 
 st.markdown(
-    "Cost per shipment is relatively flat across all four Ship Mode categories "
-    "(a range of roughly $4.42 to $4.84), showing no meaningful cost-time trade-off in this dataset."
+    "Average cost per shipment is relatively similar across all four Ship Mode categories, "
+    "ranging from approximately $4.42 to $4.84. Within this dataset, the cost differences "
+    "do not correspond to a clear improvement in the relative Lead Time measure."
 )
