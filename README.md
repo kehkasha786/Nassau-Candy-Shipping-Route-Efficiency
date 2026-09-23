@@ -31,8 +31,8 @@ Rather than discard the metric, every KPI in this project treats Lead Time as a 
 | Overall Delay Frequency | 33.26% |
 | Average Route Efficiency Score | 54.7 / 100 |
 
-- **Washington is a confirmed bottleneck** — it's the only state where both major factories (Lot's O' Nuts and Wicked Choccy's) underperform simultaneously, and it has the highest state-level delay rate in the dataset (42.82%).
-- **No cost-speed trade-off exists across Ship Modes** — cost per shipment stays within a $4.42–$4.84 range regardless of mode.
+- **Washington stands out as a state-level bottleneck candidate** — it's the only state where both major factories (Lot's O' Nuts and Wicked Choccy's) underperform simultaneously, and it has the highest state-level delay rate in the dataset (42.82%).
+- **o clear cost-versus-relative-Lead-Time trade-off is observed across Ship Modess** — cost per shipment stays within a $4.42–$4.84 range regardless of mode.
 - Order volume is heavily concentrated: **Lot's O' Nuts and Wicked Choccy's account for ~96.5%** of all shipments.
 
 ## Repository Structure
@@ -47,7 +47,7 @@ Rather than discard the metric, every KPI in this project treats Lead Time as a 
 │   └── nassau_candy_EDA.sql          # Phase 3: 27-query SQL analysis (MySQL)
 ├── streamlit/
 │   ├── Home.py                       # Dashboard entry point / Overview page
-│   ├── Style.py                      # Shared theming and component styles
+│   ├── Styles.py                      # Shared theming and component styles
 │   ├── pages/                        # Route Efficiency, Geographic Map,
 │   │                                  # Ship Mode Comparison, Route Drill-Down
 │   └── data/                         # Cleaned dataset + exported KPI CSVs
