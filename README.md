@@ -64,7 +64,7 @@ Rather than discard the metric, every KPI in this project treats Lead Time as a 
 2. **Python/pandas cleaning** — U.S.-only scope (200 Canada records dropped), Factory join correction (Fizzy Lifting Drinks Division mismatch resolved), and the Lead Time investigation
 3. **SQL EDA (MySQL)** — 27 queries covering data validation, route/factory performance, delay frequency, efficiency scoring, and cost-time comparison
 4. **Pandas KPI rebuild** — the same KPI logic re-implemented in pandas (required since the dashboard reads from CSV, not a live database) and cross-checked against SQL for consistency
-5. **Streamlit dashboard** — 5 pages, 4 filters (date range, region/state, ship mode, lead-time threshold), built on the verified KPI layer
+5. **Streamlit dashboard** — 5 pages covering route efficiency, geographic performance, ship mode comparison, and state-level drill-down, with interactive filtering available on the drill-down page.
 
 The decision to treat Lead Time as relative-only was raised for mentor guidance mid-project; the full reasoning trail is preserved in the notebooks rather than cleaned away, since it's part of the actual analytical work.
 
