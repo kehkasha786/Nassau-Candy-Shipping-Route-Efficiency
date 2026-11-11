@@ -50,22 +50,24 @@ Rather than discard the metric, every KPI in this project treats Lead Time as a 
 ## Repository Structure
 
 ```
+Nassau-Candy-Shipping-Route-Efficiency/
 ├── data/
-│   └── raw/                          # Original dataset & problem statement
-├── notebooks/
-│   ├── Data_Validation_Investigation.ipynb   # Phase 2: cleaning + Lead Time investigation
-│   └── Nassau_Candy_KPI_Metrics.ipynb        # Phase 4: KPI logic rebuilt in pandas
-├── sql/
-│   └── nassau_candy_EDA.sql          # Phase 3: 27-query SQL analysis (MySQL)
-├── streamlit/
-│   ├── Home.py                       # Dashboard entry point / Overview page
-│   ├── Style.py                      # Shared theming and component styles
-│   ├── pages/                        # Route Efficiency, Geographic Map,
-│   │                                  # Ship Mode Comparison, Route Drill-Down
-│   └── data/                         # Cleaned dataset + exported KPI CSVs
+│   └── raw/                                # Original dataset & problem statement
 ├── deliverables/
 │   ├── Nassau_Candy_Research_Paper.pdf
 │   └── Nassau_Candy_Executive_Summary.pdf
+├── notebooks/
+│   ├── Data_Validation_Investigation.ipynb # Phase 2: cleaning + Lead Time investigation
+│   └── Nassau_Candy_KPI_Metrics.ipynb      # Phase 4: KPI logic rebuilt in pandas
+├── screenshots/                            # Dashboard preview images used in this README
+├── sql/
+│   └── nassau_candy_EDA.sql                # Phase 3: 27-query SQL analysis (MySQL)
+├── streamlit/
+│   ├── Home.py                             # Dashboard entry point / Overview page
+│   ├── Style.py                            # Shared theming and component styles
+│   ├── pages/                              # Route Efficiency, Geographic Map, Ship Mode Comparison, Route Drill-Down
+│   └── data/                               # Cleaned dataset + exported KPI CSVs
+├── .gitignore
 ├── LICENSE
 └── README.md
 ```
