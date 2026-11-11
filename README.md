@@ -41,11 +41,11 @@ Rather than discard the metric, every KPI in this project treats Lead Time as a 
 
 | Route Efficiency | Geographic Shipping Map |
 |---|---|
-| ![Route Efficiency](screenshots/Route efficency.png) | ![Geographic Map](screenshots/Geography map.png) |
+| ![Route Efficiency](screenshots/RouteEfficency.png) | ![Geographic Map](screenshots/GeographyMap.png) |
 
 | Ship Mode Comparison | Route Drill-Down |
 |---|---|
-| ![Ship Mode Comparison](screenshots/Ship mode.png) | ![Route Drill-Down](screenshots/Route drill down.png) |
+| ![Ship Mode Comparison](screenshots/ShipMode.png) | ![Route Drill-Down](screenshots/RouteDrillDown.png) |
 
 ## Repository Structure
 
